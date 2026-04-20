@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-See my website - [https://kvnhndrsn.github.io/](https://kvnhndrsn.github.io/)
-
-Currently hacking away on [https://kvnhndrsn.github.io/kwpdf](kwpdf) my pdf scanning application in javascript
+See my website - [https://kvnhndrsn.github.io/](https://kvnhndrsn.github.io/)\
 
 All repos licensed by MIT No Attribution - use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software
